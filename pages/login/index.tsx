@@ -1,6 +1,6 @@
 const Login = () => {
   return (
-    <div className='absolute m-auto inset-0 w-fit h-fit'>Login</div>
+    <div className='absolute m-auto inset-0 w-fit h-fit'>Login page</div>
   )
 }
 
