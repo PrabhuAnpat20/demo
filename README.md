@@ -8,6 +8,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 git clone https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0.git
 ```
 
+- cd into your project
+```bash
+cd Pasc_Frontend_Alumni_2.0
+```
+
 - Install packages:
 ```
 npm install
