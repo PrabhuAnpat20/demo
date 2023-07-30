@@ -1,7 +1,7 @@
-const profile = () => {
+const Profile = () => {
   return (
-    <div className='absolute m-auto inset-0 w-fit h-fit'>profile</div>
+    <div className='absolute m-auto inset-0 w-fit h-fit'>Profile</div>
   )
 }
 
-export default profile
+export default Profile

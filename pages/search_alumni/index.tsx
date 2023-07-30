@@ -1,7 +1,7 @@
-const search_alumni = () => {
+const Search_alumni = () => {
   return (
-    <div className='absolute m-auto inset-0 w-fit h-fit'>search_alumni</div>
+    <div className='absolute m-auto inset-0 w-fit h-fit'>Search_alumni</div>
   )
 }
 
-export default search_alumni
+export default Search_alumni

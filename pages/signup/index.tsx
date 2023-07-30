@@ -1,7 +1,7 @@
-const sign_up = () => {
+const Sign_up = () => {
   return (
-    <div className='absolute m-auto inset-0 w-fit h-fit'>sign_up</div>
+    <div className='absolute m-auto inset-0 w-fit h-fit'>Sign_up</div>
   )
 }
 
-export default sign_up
+export default Sign_up
