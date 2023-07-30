@@ -19,10 +19,15 @@ Click this icon👇
 
 ![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/1be6fe23-6545-4a4a-92a8-55f9242d6789)
 
-Select your branch.👇
+Select 'create new branch from'👇
 
-![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/526f09a4-534c-4ba4-aecb-7d4987e07693)
+![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/f2d2e76d-3e20-4df7-b00a-7f199322b659)
 
+Select 'dev'👇
+
+![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/b969d80a-08df-4824-b655-21e6d9f5e1cc)
+
+##### Give a name to your branch.
 The branch name should be changed as follows -
 
 ![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/80f23286-80af-4b65-bc7f-c69caeaffbbf)
