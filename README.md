@@ -1,20 +1,42 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## How to Contribute:-
+
+- Clone this repo:
+```bash
+git clone https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0.git
+```
+
+- Install packages:
+```
+npm install
+```
+
+- Change the branch in the following way:
+  
+Click this icon👇
+
+![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/1be6fe23-6545-4a4a-92a8-55f9242d6789)
+
+Select your branch.👇
+
+![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/526f09a4-534c-4ba4-aecb-7d4987e07693)
+
+The branch name should be changed as follows -
+
+![image](https://github.com/PICT-ACM-Student-Chapter/Pasc_Frontend_Alumni_2.0/assets/99179330/80f23286-80af-4b65-bc7f-c69caeaffbbf)
+
+
+- Finally, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying the contents of the `pages` directory. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
